@@ -4,6 +4,8 @@ This was a project to make my own flashlight for scuba diving. See the result [h
 
 ![flashlight](./assets/20260902_230148.jpg)
 
+![flashlight_underwater](./assets/flashlight_underwater.png)
+
 As I got more into Scuba diving in 2026, I realized I needed a flashlight. The English waters are cold, dark, and murky, and a flashlight helps cut through the gloom to signal to other divers. I knew a flashlight would have a couple components, namely the lighting mechanism that shigns a light and the sealing mechanism that keeps water out. Both equally important. I did some research and saw most people used aluminium, they used the body of the flashlight to complete the circuit and cool the LED and they used O-Rings to seal the flashlight. With that, I sketched some design options.
 
 ![design](./assets/design_options.png)  
